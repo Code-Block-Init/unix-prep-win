@@ -21,3 +21,7 @@ D:\>telnet -l ashumeow:139
 
 D:\>open 192.168.50.1 139
 ```
+<b>Telnet - Server</b>
+```
+Configuration --- [https://technet.microsoft.com/en-us/library/cc754837(v=ws.10).aspx]
+```
