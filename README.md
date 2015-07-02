@@ -1,4 +1,11 @@
-##Windows Command Prompt
+##Option 1: Using Git in Windows (for Shell Scripting)
+```sh
+dell@DELL3521 ~
+$ git --version
+git version 1.9.5.msysgit.1
+```
+
+##Option 2: Using Telnet in Windows Command Prompt
 ```sh
 Microsoft Windows [Version 6.3.9600]
 (c) 2013 Microsoft Corporation. All rights reserved.
@@ -25,3 +32,4 @@ D:\>open 192.168.50.1 139
 ```
 Configuration --- [https://technet.microsoft.com/en-us/library/cc754837(v=ws.10).aspx]
 ```
+##Option 3: Windows Powershell
