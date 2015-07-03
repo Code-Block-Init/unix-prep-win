@@ -1,4 +1,4 @@
-##Option 1: Using Git in Windows (for Shell Scripting)
+##Option 1: Using Git in Windows
 ```sh
 dell@DELL3521 ~
 $ git --version
