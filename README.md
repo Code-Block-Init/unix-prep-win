@@ -33,3 +33,7 @@ D:\>open 192.168.50.1 139
 Configuration --- [https://technet.microsoft.com/en-us/library/cc754837(v=ws.10).aspx]
 ```
 ##Option 3: Windows Powershell
+```
+```
+##Which one I am using?
+I am using <a href="https://msysgit.github.io/">Git bash</a> (option-1) for scripts execution and i do coding in <a href="http://www.sublimetext.com/3">Sublime Text 3</a>
